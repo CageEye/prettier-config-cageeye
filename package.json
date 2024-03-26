@@ -2,7 +2,23 @@
   "name": "prettier-config-cageeye",
   "version": "1.0.0",
   "description": "CageEye's Prettier configuration",
-  "main": "index.json",
-  "repository": "CageEye/prettier-config-cageeye",
-  "author": "Fredrik Sigvartsen <fredrik.sigvartsen@gmail.com>"
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CageEye/prettier-config-cageeye.git"
+  },
+  "keywords": [
+    "coding-standard",
+    "prettier",
+    "style"
+  ],
+  "author": "Fredrik Sigvartsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CageEye/prettier-config-cageeye/issues"
+  },
+  "homepage": "https://github.com/CageEye/prettier-config-cageeye#readme"
 }
