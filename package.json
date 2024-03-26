@@ -1,0 +1,8 @@
+{
+  "name": "prettier-config-cageeye",
+  "version": "1.0.0",
+  "description": "CageEye's Prettier configuration",
+  "main": "index.json",
+  "repository": "CageEye/prettier-config-cageeye",
+  "author": "Fredrik Sigvartsen <fredrik.sigvartsen@gmail.com>"
+}
